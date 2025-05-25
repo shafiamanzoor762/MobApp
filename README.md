@@ -1,1 +1,1 @@
-# Explore and Build Mobile apps using React Native Expo, firebase and WeatherAPI
+# Explore and Build Mobile apps using React Native Expo, Firebase and WeatherAPI
